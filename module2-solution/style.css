@@ -41,3 +41,11 @@ p{
     margin: 0;
     position: absolute;
 }
+
+.menu{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+    color: black;
+    position: absolute;
+    height: 200px;
+}
